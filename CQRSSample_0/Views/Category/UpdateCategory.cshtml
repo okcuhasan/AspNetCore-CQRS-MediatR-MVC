@@ -1,0 +1,20 @@
+﻿@model UpdateCategoryCommand
+
+<form asp-action="UpdateCategory" asp-controller="Category" method="post">
+    <input asp-for="CategoryID" type="hidden"/>
+
+    <div>
+        <input asp-for="CategoryName"/>
+    </div>
+
+    <br />
+
+    <div>
+        <input asp-for="Description"/>
+    </div>
+
+    <div>
+        <button class="btn btn-primary">Kategori Güncelle</button>
+    </div>
+</form>
+

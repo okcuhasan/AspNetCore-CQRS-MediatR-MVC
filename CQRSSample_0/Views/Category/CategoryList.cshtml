@@ -1,0 +1,28 @@
+﻿@model List<GetCategoryQueryResult>
+
+<h3>Yeni bir kategori eklemek için tıklayınız <a asp-action="CreateCategory" asp-controller="Category">tıklayınız</a></h3>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>CategoryName</th>
+            <th>Description</th>
+            <th>Kategori Güncelle</th>
+            <th>Kategori Sil</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(GetCategoryQueryResult item in Model)
+        {
+            <tr>
+                <td>@item.CategoryId</td>
+                <td>@item.CategoryName</td>
+                <td>@item.Description</td>
+                <td><a asp-action="UpdateCategory" asp-controller="Category" asp-route-id="@item.CategoryId" class="btn btn-warning">Güncelle</a></td>
+                <td><a asp-action="DeleteCategory" asp-controller="Category" asp-route-id="@item.CategoryId" class="btn btn-danger">Sil</a></td>
+            </tr>
+        }
+        </tbody>
+    </table>
