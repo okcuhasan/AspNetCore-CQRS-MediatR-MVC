@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hasan.okcu\\source\\repos\\CQRSSample_0\\",
+  "WorkspaceRootPath": "C:\\Users\\90554\\source\\repos\\CQRSSample_0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D81C4B0B-812C-4B32-81F4-F99FD838974F}|CQRSSample_0\\CQRSSample_0.csproj|c:\\users\\hasan.okcu\\source\\repos\\cqrssample_0\\cqrssample_0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D81C4B0B-812C-4B32-81F4-F99FD838974F}|CQRSSample_0\\CQRSSample_0.csproj|solutionrelative:cqrssample_0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D81C4B0B-812C-4B32-81F4-F99FD838974F}|CQRSSample_0\\CQRSSample_0.csproj|c:\\users\\hasan.okcu\\source\\repos\\cqrssample_0\\cqrssample_0\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D81C4B0B-812C-4B32-81F4-F99FD838974F}|CQRSSample_0\\CQRSSample_0.csproj|solutionrelative:cqrssample_0\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D81C4B0B-812C-4B32-81F4-F99FD838974F}|CQRSSample_0\\CQRSSample_0.csproj|c:\\users\\90554\\source\\repos\\cqrssample_0\\cqrssample_0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D81C4B0B-812C-4B32-81F4-F99FD838974F}|CQRSSample_0\\CQRSSample_0.csproj|solutionrelative:cqrssample_0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hasan.okcu\\source\\repos\\CQRSSample_0\\CQRSSample_0\\Program.cs",
-              "RelativeDocumentMoniker": "CQRSSample_0\\Program.cs",
-              "ToolTip": "C:\\Users\\hasan.okcu\\source\\repos\\CQRSSample_0\\CQRSSample_0\\Program.cs",
-              "RelativeToolTip": "CQRSSample_0\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T07:23:56.045Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\hasan.okcu\\source\\repos\\CQRSSample_0\\CQRSSample_0\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "CQRSSample_0\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\hasan.okcu\\source\\repos\\CQRSSample_0\\CQRSSample_0\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "CQRSSample_0\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAA9wE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T07:13:25.353Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\90554\\source\\repos\\CQRSSample_0\\CQRSSample_0\\appsettings.json",
+              "RelativeDocumentMoniker": "CQRSSample_0\\appsettings.json",
+              "ToolTip": "C:\\Users\\90554\\source\\repos\\CQRSSample_0\\CQRSSample_0\\appsettings.json",
+              "RelativeToolTip": "CQRSSample_0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T18:41:16.459Z",
               "EditorCaption": ""
             }
           ]

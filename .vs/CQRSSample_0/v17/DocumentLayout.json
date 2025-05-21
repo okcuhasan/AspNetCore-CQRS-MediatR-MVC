@@ -1,12 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hasan.okcu\\source\\repos\\CQRSSample_0\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\90554\\source\\repos\\CQRSSample_0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D81C4B0B-812C-4B32-81F4-F99FD838974F}|CQRSSample_0\\CQRSSample_0.csproj|c:\\users\\90554\\source\\repos\\cqrssample_0\\cqrssample_0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D81C4B0B-812C-4B32-81F4-F99FD838974F}|CQRSSample_0\\CQRSSample_0.csproj|solutionrelative:cqrssample_0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\90554\\source\\repos\\CQRSSample_0\\CQRSSample_0\\appsettings.json",
+              "RelativeDocumentMoniker": "CQRSSample_0\\appsettings.json",
+              "ToolTip": "C:\\Users\\90554\\source\\repos\\CQRSSample_0\\CQRSSample_0\\appsettings.json",
+              "RelativeToolTip": "CQRSSample_0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T18:41:16.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
